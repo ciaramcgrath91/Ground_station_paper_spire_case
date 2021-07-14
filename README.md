@@ -1,4 +1,4 @@
-# Spire_casestufy
+# Spire_casestudy
 
 This is a repository of Python code for the Spire Global Case study in the paper "Data sink selection using consensus leadership: improving spacecraft constellation target connectivity". This README captures the functionality of the code as of 14/07/2021. 
 
